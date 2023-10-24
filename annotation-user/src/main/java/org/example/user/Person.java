@@ -7,7 +7,7 @@ public class Person {
 
     private String name;
 
-    public int getAge() { 
+    public int getAge() {
         return age;
     }
 
